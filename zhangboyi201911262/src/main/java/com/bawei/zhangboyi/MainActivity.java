@@ -38,6 +38,7 @@ public class MainActivity extends BaseActivity {
     @Override
     protected void initData() {
         //标题
+        //张博一初始化第一周周考项目代码
         stringList.add("要闻");
         stringList.add("推荐");
         stringList.add("视频");
